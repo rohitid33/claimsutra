@@ -1,0 +1,30 @@
+[33mbdc28c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Assistant checkpoint: Update welcome text in auth page
+[33me558b2a[m Assistant checkpoint: Fix syntax error in navbar.tsx
+[33m39ac458[m Assistant checkpoint: Move All Services section to bottom navigation
+[33mcb6dbc9[m Assistant checkpoint: Update navbar layout and reorganize dropdowns
+[33m4c75441[m Assistant checkpoint: Add Claims dropdown with File and Track options
+[33m6cc9e49[m Assistant checkpoint: Update navbar with Claims section and improved dropdown
+[33mee383c6[m Assistant checkpoint: Fixed syntax error in navbar component
+[33m7db033d[m Assistant checkpoint: Fix tagline positioning below navbar
+[33mf406d20[m Assistant checkpoint: Added notification banner and removed old tagline
+[33m83b221a[m Assistant checkpoint: Update navbar with improved services dropdown menu
+[33m08fea71[m Assistant checkpoint: Update services page with categorized service listings
+[33md1702e5[m Assistant checkpoint: Fix logout mutation in navbar
+[33m044f8be[m Assistant checkpoint: Update expert button navigation
+[33mfa3e7f2[m Assistant checkpoint: Add dropdown menu with logout functionality
+[33mae3115b[m Assistant checkpoint: Update services page with categorized services
+[33ma6a68b7[m Assistant checkpoint: Removed dashboard button from navbar
+[33m3a7b2e7[m Assistant checkpoint: Fix React component dynamic imports and add Suspense
+[33m6a11c50[m Assistant checkpoint: Add personalized dashboard
+[33m8cfda02[m Assistant checkpoint: Remove dark mode functionality
+[33m7d6248b[m User checkpoint: Remove dark mode functionality.
+[33mc2c755e[m initial commit
+[33m088bade[m Agent query: I've made several updates to the layout. Could you verify: 1. Is the theme in light mode? 2. Do the service icons scroll together in two rows? 3. Is Document Vault renamed to DocVault in the bottom nav? 4. Is there a new About Us section with scrollable banners? 5. Are testimonials now at the bottom of the page?
+[33m6ce9724[m Agent query: I've modified the services section to scroll together and added a new Popular Services section. Could you check if both sections are displayed correctly and scroll smoothly?
+[33mbfe329a[m Agent query: I've added dark mode toggle, updated the navigation bars, and created demo pages. Could you verify if the dark mode toggle works and if you can see all the new pages?
+[33m694adc0[m Agent query: I've set up the authentication system. Could you please try to register a new account and let me know if it works?
+[33m36bed9e[m Agent query: I've replaced the notifications icon with a login button in the navbar. Is it displaying correctly on both mobile and desktop views?
+[33m677db4c[m Agent query: Could you check if: 1. The banner images are now visible on mobile, 2. Services are shown in two scrollable rows, and 3. The new Partner and Careers sections are visible below the CTA?
+[33m7f4f70e[m Agent query: Please check if: 1. Category buttons scroll horizontally, 2. Banner images auto-rotate, 3. Services scroll horizontally, 4. Promotional banners section is visible and scrollable
+[33m7b0424f[m Agent query: Could you check if the three round category icons are visible above the services section, and if clicking them changes the displayed services? Also, are the service icons now round and evenly spaced?
+[33mfc2d1fd[m[33m ([m[1;34mgrafted[m[33m)[m Agent query: I've updated the interface to match the Claimsutra design. Please check if: 1. The logo shows 'Claimsutra' instead of 'Insurance Samadhan' 2. The services grid shows insurance claim types with icons 3. The bottom navigation menu is visible and properly styled
